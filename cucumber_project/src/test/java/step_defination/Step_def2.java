@@ -13,7 +13,7 @@ public class Step_def2 {
 	@Given("user is on login page")
 	public void user_is_on_login_page() {
 	    driver = new FirefoxDriver();
-	    driver.get("https://www.saucedemo.com/v1/");
+	    driver.get("https://www.saucedemo.com/");
 	}
 
 	@When("user enters valid {string} and {string}")

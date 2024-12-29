@@ -8,3 +8,4 @@ Feature: Login page Automation of saucedemo App
     And Clicks on Login Button
     Then User is navigated to Hpme Page
     And Close the browser
+    
